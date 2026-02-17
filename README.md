@@ -12,5 +12,10 @@ This project will help to understand how businesses track potential customers fr
 
 ### The excel project the tasks did are :
 
-- Caclculation of the expected revenue -=DEAL VALUE*PROBABILITY
+- Caclculation of the expected revenue =DEAL VALUE*PROBABILITY
+- Calculation of total expected revenue for all open deals
+- Use of SUMIF as one of the excel functions
+- Use of COUNT as another excel function
+
+  # **Try understanding this excel as it will expand your understanding thank you**
 
