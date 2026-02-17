@@ -3,11 +3,8 @@ This project will help to understand how businesses track potential customers fr
 
 ## Skills obtained:
 
- **Organize and clean sales data in Excel**
- 
- **Track sales opportunities using pipeline stages**
- 
- **Use logical and conditional Excel Functions**
- 
- **Calculate expected and closed revenue**
+1. **Organize and clean sales data in Excel**
+2. **Track sales opportunities using pipeline stages**
+3. **Use logical and conditional Excel Functions**
+4. **Calculate expected and closed revenue**
 
