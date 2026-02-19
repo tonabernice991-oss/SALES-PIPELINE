@@ -1,21 +1,42 @@
-# SALES-PIPELINE
-This project will help to understand how businesses track potential customers from first contact to closed sales.This too will be by the use of excel to organize sales opportunities , monitor deal stages,and calculate expected revenue.
+# 📈 Sales Pipeline Dashboard
 
-## Skills obtained:
+This project demonstrates how businesses track potential customers from first contact to closed deals using Excel. It manages sales opportunities, monitors deal stages, and calculates expected revenue through automated formulas and dashboards.
 
-1. **Organize and clean sales data in Excel**
-2. **Track sales opportunities using pipeline stages**
-3. **Use logical and conditional Excel Functions**
-4. **Calculate expected and closed revenue**
+## 🚀 Features
+- Sales data organization & cleaning
+- Deal stage tracking
+- Expected revenue calculation
+- Sales performance monitoring
+- Interactive dashboards & charts
 
-### **So here is an Excel example: Visit:[https://1drv.ms/x/c/c6767e1f5b535938/IQB4zn3dOWazQacd0L0aKy25AbNjt3hOhApNkbLQzWDM334?e=0axTkU](https://1drv.ms/x/c/c6767e1f5b535938/IQB4zn3dOWazQacd0L0aKy25Af46YKaj8oBidTkTPqXd74s?e=zEti21)**
+## 🛠 Tools & Skills Used
+- Microsoft Excel  
+- Logical & conditional formulas  
+- SUMIF & COUNT functions  
+- Data analysis  
+- Dashboard visualization  
 
-### The excel project the tasks did are :
+## 📂 Project Structure
+- **Sales Data Sheet** – Customer & deal info  
+- **Calculation Sheet** – Revenue calculations  
+- **Dashboard Sheet** – Sales insights  
 
-- Caclculation of the expected revenue =DEAL VALUE*PROBABILITY
-- Calculation of total expected revenue for all open deals
-- Use of SUMIF as one of the excel functions
-- Use of COUNT as another excel function
+## ▶ How To Use
+1. Download the Excel file.
+2. Open it in Microsoft Excel.
+3. Enter sales data and deal stages.
+4. View revenue predictions and dashboards.
 
-  # **Try understanding this excel as it will expand your understanding thank you**
+## 📊 Output
+- Expected revenue per deal
+- Total projected revenue
+- Sales performance dashboards
 
+## 🔗 Project Demo
+[Excel Project Demo](https://1drv.ms/x/c/c6767e1f5b535938/IQB4zn3dOwa2QacQeLOeAkyZ5AhWJt3hOhpNkblQvN334?e=0axTkU)
+
+## 👤 Author
+**Tona**
+
+## 📜 License
+Open source — for learning and portfolio purposes.
