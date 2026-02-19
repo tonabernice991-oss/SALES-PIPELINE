@@ -33,7 +33,7 @@ This project demonstrates how businesses track potential customers from first co
 - Sales performance dashboards
 
 ## 🔗 Project Demo
-[Excel Project Demo](https://1drv.ms/x/c/c6767e1f5b535938/IQB4zn3dOwa2QacQeLOeAkyZ5AhWJt3hOhpNkblQvN334?e=0axTkU)
+[Excel Project Demo](https://1drv.ms/x/c/c6767e1f5b535938/IQB4zn3dOwa2QacQeLOeAkyZ5AhWJt3hOhpNkblQvN334?e=0axTkU)🤌
 
 ## 👤 Author
 **Tona**
